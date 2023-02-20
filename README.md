@@ -138,7 +138,7 @@ jscon.update('example.json', { property: 'name', value: 'Bob', newData: updatedD
 ## License 
 JSCON is released under the MIT License. [Read more](https://opensource.org/licenses/MIT)
 
-## Contribute & Issues:
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on the [GitHub repository](https://github.com/abdlmutii/jscon).
-
-## Credits & Team
+## Contribution:
+Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on the [GitHub repository](https://github.com/abdlmutii/jscon), also be free to send important bugs to my <a href="mailto:abdlmutii@outlook.com">email adress</a>
+## Credits
+Credits goes to [abdlmutii](https://github.com/abdlmutii), if you like this npm package please remember to check other work i've done.
