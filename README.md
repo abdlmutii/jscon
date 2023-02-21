@@ -145,4 +145,4 @@ JSCON is released under the MIT License. [Read more](https://opensource.org/lice
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on the [GitHub repository](https://github.com/abdlmutii/jscon), also be free to send important bugs to my <a href="mailto:abdlmutii@outlook.com">email adress</a>
 
 ## Credits
-Credits goes to [abdlmutii](https://github.com/abdlmutii/abdlmutii), if you like this npm package please remember to check other work i've done on github and star [this repo][https://github.com/abdlmuti/jscon).
+Credits goes to [abdlmutii](https://github.com/abdlmutii/abdlmutii), if you like this npm package please remember to check other work i've done on github and star [this repo](https://github.com/abdlmuti/jscon).
