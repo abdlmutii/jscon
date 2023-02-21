@@ -6,7 +6,7 @@ JSCON is a Node.js library for working with JSON and JSCON files. It provides me
 
 ## Installation
 
-To install JSCON, use the following command, make sure it is spelled **`jsccon`** **JSCCON** NOT **JSCON**:
+To install JSCON, use the following command, make sure it is spelled **JSCCON** NOT **JSCON**:
 ```cli
 npm install jsccon
 ```
@@ -143,5 +143,6 @@ JSCON is released under the MIT License. [Read more](https://opensource.org/lice
 
 ## Contribution:
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on the [GitHub repository](https://github.com/abdlmutii/jscon), also be free to send important bugs to my <a href="mailto:abdlmutii@outlook.com">email adress</a>
+
 ## Credits
-Credits goes to [abdlmutii](https://github.com/abdlmutii), if you like this npm package please remember to check other work i've done.
+Credits goes to [abdlmutii](https://github.com/abdlmutii/abdlmutii), if you like this npm package please remember to check other work i've done on github and star [this repo][https://github.com/abdlmuti/jscon).
