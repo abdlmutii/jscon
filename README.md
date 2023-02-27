@@ -1,5 +1,5 @@
 # JSON? Come on.. JSCON is more ✨ ENHANCED ✨ 
-<a href="https://discord.gg/NPvYAB5YCv"><img src="https://img.shields.io/discord/1077492444574261339?style=for-the-badge&color=5865F2&logo=discord&logoColor=white&label=Abdlmu'tii" alt="Discord server" /></a>
+<a href="https://discord.gg/y9KUzq2yaT"><img src="https://img.shields.io/discord/1077492444574261339?style=for-the-badge&color=5865F2&logo=discord&logoColor=white&label=Abdlmu'tii" alt="Discord server" /></a>
   <a href="https://www.npmjs.com/package/jsccon"><img src="https://img.shields.io/npm/dt/jsccon.svg?maxAge=3600&color=CC3534&style=for-the-badge&logo=npm" alt="npm downloads" /></a>
 <br>
   <a href=""><img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="npm downloads" /></a>
