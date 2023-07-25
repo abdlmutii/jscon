@@ -16,7 +16,7 @@ npm install jsccon
 
 ## API
 - `parse(file)` - Read .jscon file and convert to JavaScript object, the `file` is an jscon file, should look like `<filename>.jscon`
-- `sort(<file or url>, {by: "less|more", proprety: "<number property>", arrayProprety: "<array property>", output: "filename.jscon|object"})` Sort by property number or array values length where `property` is a number property and `arrayProperty` is an property that own array
+- `sort(<file or url>, {by: "less|more", proprety: "<number property>", arrayProprety: "<array property>", output: "filename.jscon|object"})` Sort by property number or array values length where `property` is a number property and `arrayProperty` is an property that own array.
 - `merge(outputFileName, [files])` Merge multiple files into one file, where `outputFileName` is the output file name, and `[files]` is array of file names
 - `set(file, newData)` Set a new object to the file, `newData` is object
 - `delete(file, {property: "property_name", value: "value"})` Delete an item from the file.
